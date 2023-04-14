@@ -3,4 +3,9 @@
 
 # Controls
 ---
-W and S
+W and S: rotate around x axis
+A and D: rotate around y axis
+Q and E: rotate around z axis
+Z and X: pan camera up/down
+I and O: increase/decrease mass of player
+F: toggle gravity
